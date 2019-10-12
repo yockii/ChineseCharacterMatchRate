@@ -1,0 +1,2 @@
+# ChineseCharacterMatchRate
+对两个汉字的匹配度进行计算
